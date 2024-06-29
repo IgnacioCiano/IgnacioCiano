@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IgnacioCiano/IgnacioCiano/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IgnacioCiano/IgnacioCiano/snake.svg" alt="Snake animation" />
 
 ###
 

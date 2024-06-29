@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IgnacioCiano/IgnacioCiano/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Experience in</p>
 
 ###

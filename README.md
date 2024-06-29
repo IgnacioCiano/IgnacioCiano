@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://static.diarioconvos.com/uploads/2022/12/34-828x548.jpg"  />
-</div>
+<img src="https://raw.githubusercontent.com/IgnacioCiano/IgnacioCiano/output/snake.svg" alt="Snake animation" />
 
 ###
 
